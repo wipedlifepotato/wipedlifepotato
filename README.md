@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning **Data Science**.
 - ⚗ I’m interested in **chemistry**, **radio**, and **programming**.
 - 🐧 I like working with **Linux systems** and **AI**.
-- 💻 I can read and understand **C/C++**, **Golang**, **JavaScript**, **Python**, and also have some experience with **Kotlin** and **Java**.
+- 💻 I can read and understand **C/C++**, **Golang**, **JavaScript**, **Python**, and also have some experience with **Kotlin** and **Java** and another languages.
 
 ---
 
