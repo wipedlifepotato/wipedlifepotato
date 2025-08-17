@@ -8,7 +8,7 @@
 ---
 
 - 🔭 I’m currently working on overlay networks like **Yggdrasil**, **I2P**, **Tor**, and maintaining relays/floodfills/peers, as well as developing related software.
-- 🌱 I’m currently learning **Data Science**.
+- 🌱 I’m currently learning **Machine Learning** for a now.
 - ⚗ I’m interested in **chemistry**, **radio**, and **programming**.
 - 🐧 I like working with **Linux systems** and **AI**.
 - 💻 I can read and understand **C/C++**, **Golang**, **JavaScript**, **Python**, and also have some experience with **Kotlin** and **Java** and another languages.
